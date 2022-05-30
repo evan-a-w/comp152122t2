@@ -1,1 +1,14 @@
-Week 1:
+Week 1 Notes:
+
+Contact me:
+evan.a.williams@unsw.edu.au
+
+
+Admin stuff:
+ - Course description
+ - Lab marks
+ - Weekly quizzes
+ - Assignment help
+
+Code at:
+https://github.com/evan-a-w/comp152122t2
