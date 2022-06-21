@@ -8,7 +8,7 @@ max__prologue:
 
 	lw	$s0, ($a0) # first_element = a[0], in $s0
 
-	bge	$s0, 1, length_greater_than_one
+	bgt	$a1, 1, length_greater_than_one
 	move	$v0, $s0
 	j	max__epilogue
 length_greater_than_one:	
